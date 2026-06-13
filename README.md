@@ -67,8 +67,8 @@ Our growth prediction engine processes historical data (2015-2024) through a pip
 ## 👥 Credits
 
 **Development Team**
-*   **Suchith Sara** - Lead Developer
-*   **Sai Krishna** - Contributor
+*   **Suchith Sara**
+*   **Sai Krishna**
 
 ---
 *Built with ❤️ for the future of Urban Planning.*
